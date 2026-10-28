@@ -1,0 +1,9 @@
+[
+{
+  "modid": "bqmodern",
+  "name": "BetterQuesting Modern UI",
+  "description": "Client-side modern skin for BetterQuesting. Replaces the quest book screens; all data stays in BetterQuesting.",
+  "version": "${version}",
+  "mcversion": "${mcversion}"
+}
+]

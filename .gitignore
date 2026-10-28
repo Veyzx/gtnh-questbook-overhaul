@@ -1,0 +1,8 @@
+.gradle/
+build/
+run/
+logs/
+*.class
+.idea/
+*.iml
+libs/BetterQuesting.jar
